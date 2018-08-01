@@ -3,7 +3,6 @@
  * Collect research details of a particular disease using PubMed Entrez or PubMed API
  * Using esearch and efetch e-utilities, extract data in JSON format by specifying db, Retmode, term and Retmax 
 ## Exploratory Data Analysis is performed using Pandas.
-## Developed Data Science questions and plan and model the data
 ### Modeling Frequency distribution and weight of words in abstracts:
 * WordNetLemmatizer along with FreqDist 
 * SnowballStemmer is used along with CountVectorizer. 
