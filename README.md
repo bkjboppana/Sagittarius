@@ -7,6 +7,7 @@
 * WordNetLemmatizer along with FreqDist 
 * SnowballStemmer is used along with CountVectorizer. 
 * Abstracts are transformed into bag of words representation and Tf-idf weights are calculated using Tfidftransformer
+* Compared results for FreqDist and CountVectorizer
 
 ### Sentiment Analysis
 * Sentiment analysis is performed using SentimentIntensityAnalyzer. Compound score is used to assign positive or negative sentiment to the article
